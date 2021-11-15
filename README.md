@@ -6,4 +6,6 @@ It is better to test whenever code is pushed so we have a chance to see if my co
 
 2) No
 
+3) No - For this feature, it is not an interaction between user and app. It is an interaction between user and another user.
 
+4) Yes - It is an interaction between user and app. So we can use unit test. 
